@@ -1,0 +1,26 @@
+td{
+    background-color:bisque;
+color:brown;
+font-style: oblique;
+}
+th{
+    background-color: beige;
+    color:black;
+    font-style: italic;
+}
+tr{
+    text-align: center;
+    font-size: 45px;
+    text-decoration: aqua;
+}
+h1{
+    color:black;
+    text-align: center;
+    line-height: 1cm;
+    font-family: Georgia;
+    font-style:initial;
+    background-color: rgb(58, 187, 187);
+}
+*{
+    margin: 0.5cm;
+}
